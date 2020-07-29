@@ -1,4 +1,0 @@
-channels:
-  - defaults
-auto_update_conda: false
-show_channel_urls: true
